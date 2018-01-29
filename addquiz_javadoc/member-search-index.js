@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"<Unnamed>","c":"AddQuiz","l":"AddQuiz()"},{"p":"<Unnamed>","c":"AddQuiz","l":"main(String[])","url":"main-java.lang.String:A-"},{"p":"<Unnamed>","c":"AddQuiz","l":"start(Stage)","url":"start-javafx.stage.Stage-"}]
