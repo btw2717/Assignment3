@@ -1,3 +1,5 @@
+//Hello me it me again, just testing how to clone and push stuff around....
+
 /**
  * The AddQuiz class generates 3 random numbers, and then prompts the user to enter the sum of those numbers.
  * @author Sapper
